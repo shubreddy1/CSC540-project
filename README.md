@@ -8,5 +8,5 @@ Download and unzip the code file
 
 Import it to eclipse and replace the Java libraries in the configuration
 
-Execute the WolfInnMain.java
+Run the WolfInnMain.java as a Java Application
 
